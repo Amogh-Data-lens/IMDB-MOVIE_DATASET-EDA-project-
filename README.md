@@ -1,7 +1,5 @@
 # IMDB-MOVIE_DATASET-EDA-project-
 
-Great! Let's modify the description to include the fact that you used a dataset from Kaggle:
-
 Title: Exploratory Data Analysis (EDA) on IMDb Movie Dataset
 
 Description:
